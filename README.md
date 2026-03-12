@@ -1,6 +1,6 @@
 # Bucheen Arayüz Geliştirme
 
-Bu proje, paylaşılan tasarımın birebir koda dökülmeye çalışılmıştır.
+Bu proje, paylaşılan tasarımı birebir koda dökülmeye çalışılmıştır.
 
 ## Teknik Özellikler
 
